@@ -1,6 +1,6 @@
 ## Running QTO
 
-# Unzip the QTO.zip that can be found at 'https://github.com/anonsubmission7818/test-QTO/releases/tag/v1.0.0 archive' to run QTO for new and old benchmarks. The archive contains all the files, the scripts, and the pre-trained models we used to run QTO. For additional details on QTO please refer to the original implementation https://github.com/bys0318/QTO/tree/main.
+ Unzip the QTO.zip that can be found at 'https://github.com/anonsubmission7818/test-QTO/releases/tag/v1.0.0 archive' to run QTO for new and old benchmarks. The archive contains all the files, the scripts, and the pre-trained models we used to run QTO. For additional details on QTO please refer to the original implementation https://github.com/bys0318/QTO/tree/main.
 
 # Old benchmarks
 
